@@ -1,0 +1,15 @@
+{
+  "name": "tesla",
+  "version": "0.0.1",
+  "description": "Tesla API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "teslams": "*"
+  },
+  "repository": "",
+  "author": "",
+  "license": "BSD"
+}
